@@ -16,7 +16,7 @@ https://maciejprzyborowski.github.io/React-Reaction-Time/
  -  🎨 CSS
 
 ## 📸 Zdjęcia
-![screenshot1](https://github.com/user-attachments/assets/5511bb2e-b053-4029-a7bd-e2471e7ed618)
-![screenshot2](https://github.com/user-attachments/assets/08025862-7dcc-409f-ab6e-92530bb0e9a6)
+![screenshot1](https://github.com/user-attachments/assets/96724468-3ed7-4a1a-a3fc-b95c952061a7)
+![screenshot2](https://github.com/user-attachments/assets/c1ef5371-9454-4c52-a03f-2484156a43d5)
 
 💡 React - The Complete Guide 2024
